@@ -1028,4 +1028,10 @@ Responsive
     .pp-header h3{
         font-size: 20px;
     }
+    .contact-info-item p{
+        word-break: break-all;
+        word-wrap: break-word;
+        white-space: pre-wrap;
+        overflow-wrap: break-word;
+    }
 }
